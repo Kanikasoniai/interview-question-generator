@@ -96,6 +96,22 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+## Testing
+
+Run automated tests using:
+
+```bash
+pytest
+```
+
+The test suite validates:
+
+* Python domain
+* Data Science domain
+* Machine Learning domain
+* Web Development domain
+* Invalid domain handling
+
 
 ---
 
