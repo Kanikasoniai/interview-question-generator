@@ -22,4 +22,12 @@ QUESTIONS = {
         "Difference between supervised and unsupervised learning?",
         "What is a confusion matrix?"
     ],
+"web development": [
+"What is the difference between HTML and HTML5?",
+"Explain CSS Flexbox.",
+"What is REST API?",
+"What is the difference between GET and POST?",
+"Explain responsive web design."
+],
+
 }
